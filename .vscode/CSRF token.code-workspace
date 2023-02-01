@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../wamp64/www/phplessons"
+		},
+		{
+			"path": "../../Mitch/404"
+		},
+		{
+			"path": "../../Mitch/500"
+		},
+		{
+			"path": "../../Mitch"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "404"
+	}
+}
